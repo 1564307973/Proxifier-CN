@@ -30,6 +30,30 @@
 
 ---
 
+## 📦 安装与使用
+
+### Proxifier v4.12 汉化安装包
+
+1. 下载 `Proxifier v4.12 Chs.7z` 压缩包。
+2. 解压后包含：
+   - `ProxifierSetup.exe`：官方 v4.12 安装包。
+   - `CN` 文件夹：汉化过的程序文件。
+3. 安装官方 Proxifier 后，将 `CN` 文件夹内的文件覆盖到程序安装目录即可完成汉化。
+
+### Proxifier PE 便携版本
+
+1. 下载 `Proxifier PE.7z` 压缩包。
+2. 解压后直接运行，无需安装，已替换好汉化文件。
+
+---
+
+## 🖼️ 汉化截图
+
+![Proxifier 汉化版](Proxifier 2025-03-29 191255.png)
+![Proxifier PE 汉化版](Proxifier PE 2025-03-29 191144.png)
+
+---
+
 ## 📮 反馈渠道
 
 欢迎通过以下方式反馈使用中的问题或建议：

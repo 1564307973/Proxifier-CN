@@ -49,8 +49,8 @@
 
 ## 🖼️ 汉化截图
 
-![Proxifier 汉化版](Proxifier 2025-03-29 191255.png)
-![Proxifier PE 汉化版](Proxifier PE 2025-03-29 191144.png)
+![Proxifier 汉化版](Proxifier%202025-03-29%20191255.png)
+![Proxifier PE 汉化版](Proxifier%20PE%202025-03-29%20191144.png)
 
 ---
 

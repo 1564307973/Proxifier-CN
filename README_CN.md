@@ -11,6 +11,13 @@
 ![GitHub stars](https://img.shields.io/github/stars/1564307973/Proxifier-CN)
 ![GitHub watchers](https://img.shields.io/github/watchers/1564307973/Proxifier-CN)
 
+## 语言选择
+
+- 中文
+- [English](README.md)
+
+---
+
 ## 项目简介
 
 Proxifier-CN 是一款针对 [Proxifier](https://www.proxifier.com/) 软件的汉化版本，旨在帮助国内用户更方便地使用 [Proxifier](https://www.proxifier.com/) 的强大功能，提升用户体验。
@@ -29,6 +36,7 @@ Proxifier-CN 是一款针对 [Proxifier](https://www.proxifier.com/) 软件的�
 - [注意事项](#注意事项)
 - [常见问题解答（FAQ）](#常见问题解答faq)
 - [试用示例](#试用示例)
+- [许可证](#许可证)
 
 ---
 
@@ -132,6 +140,6 @@ Proxifier-CN 是一款针对 [Proxifier](https://www.proxifier.com/) 软件的�
 
 ---
 
-## 📜 许可证（License）
+## 📜 许可证
 
 本项目基于 MIT 许可证开源，详情请见 [LICENSE](LICENSE) 文件。

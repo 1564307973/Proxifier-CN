@@ -11,127 +11,135 @@
 ![GitHub stars](https://img.shields.io/github/stars/1564307973/Proxifier-CN)
 ![GitHub watchers](https://img.shields.io/github/watchers/1564307973/Proxifier-CN)
 
-## 项目简介
+## Language Options
 
-Proxifier-CN 是一款针对 [Proxifier](https://www.proxifier.com/) 软件的汉化版本，旨在帮助国内用户更方便地使用 [Proxifier](https://www.proxifier.com/) 的强大功能，提升用户体验。
-
-⚠ **温馨提示**：请勿询问或讨论与官方授权密钥（key）相关的问题。
-
----
-
-## 目录
-
-- [功能与特点](#功能与特点)
-- [官方更新日志](#官方更新日志)
-- [安装与使用](#安装与使用)
-- [汉化截图](#汉化截图)
-- [反馈渠道](#反馈渠道)
-- [注意事项](#注意事项)
-- [常见问题解答（FAQ）](#常见问题解答faq)
-- [试用示例](#试用示例)
+- [中文](README_CN.md)
+- English
 
 ---
 
-## 💡 功能与特点
+## Introduction
 
-✅ **完整汉化**：将原版界面、提示及文档全面转换为中文。  
-✅ **保留原版功能**：确保所有核心功能正常运行，与官方版本保持一致。  
+Proxifier-CN is a Chinese localization of the [Proxifier](https://www.proxifier.com/) software, aimed at helping domestic users more conveniently use the powerful features of [Proxifier](https://www.proxifier.com/) and enhance the user experience.
 
----
-
-## 📝 官方更新日志
-
-### 📅 版本 4.12 （2023.09.25）
-- 🔧 更新了网络驱动程序以满足最新的 Microsoft 要求
-- 🛠 修复了 ARM 平台上的驱动程序安装问题
-- 📊 改进了错误报告
-- 🎨 较小的网络和 UI 改进
-
-📢 *注意：本汉化版仅针对 4.12 版本，不适用于其他版本。*
+⚠ **Note**: Please do not inquire about or discuss official license keys (keys) related issues.
 
 ---
 
-## 📦 安装与使用
+## Table of Contents
 
-### Proxifier v4.12 汉化安装包
-
-1. 下载 `Proxifier v4.12 Chs.7z` 压缩包。
-2. 解压后包含：
-   - `ProxifierSetup.exe`：官方 v4.12 安装包。
-   - `CN` 文件夹：汉化过的程序文件。
-3. 安装官方 Proxifier 后，将 `CN` 文件夹内的文件覆盖到程序安装目录即可完成汉化。
-
-### Proxifier PE 便携版本
-
-1. 下载 `Proxifier PE.7z` 压缩包。
-2. 解压后直接运行，无需安装，已替换好汉化文件。
+- [Features](#features)
+- [Official Changelog](#official-changelog)
+- [Installation and Usage](#installation-and-usage)
+- [Screenshots](#screenshots)
+- [Feedback](#feedback)
+- [Notices](#notices)
+- [FAQ](#faq)
+- [Examples](#examples)
+- [License](#license)
 
 ---
 
-## 🖼️ 汉化截图
+## 💡 Features
 
-### Proxifier 汉化版
-![Proxifier 汉化版](Proxifier%202025-03-29%20191255.png)
-*Proxifier 汉化版界面示例*
-
-### Proxifier PE 汉化版
-![Proxifier PE 汉化版](Proxifier%20PE%202025-03-29%20191144.png)
-*Proxifier PE 汉化版界面示例*
+✅ **Complete Localization**: Fully convert the original interface, prompts, and documentation to Chinese.  
+✅ **Retain Original Functions**: Ensure all core functions operate normally and remain consistent with the official version.  
 
 ---
 
-## 📮 反馈渠道
+## 📝 Official Changelog
 
-欢迎通过以下方式反馈使用中的问题或建议：
-- **🐛 GitHub Issues**：在本仓库的 [Issues](https://github.com/1564307973/Proxifier-CN/issues) 中提交反馈。
-- **📧 邮件**：发送邮件至 [1564307973@qq.com](mailto:1564307973@qq.com) 反馈您的意见。
+### 📅 Version 4.12 (2023.09.25)
+- 🔧 Updated network drivers to meet the latest Microsoft requirements.
+- 🛠 Fixed driver installation issues on the ARM platform.
+- 📊 Improved error reporting.
+- 🎨 Minor network and UI improvements.
 
----
-
-## 📢 注意事项
-
-- ⚠ 本汉化版仅对 [Proxifier](https://www.proxifier.com/) 软件进行汉化，用户仍需购买正版授权才能使用全部功能。Proxifier 软件提供一个月的免费试用期，试用期结束后需购买授权密钥。
+📢 *Note: This localization is only for version 4.12 and is not applicable to other versions.*
 
 ---
 
-## ❓ 常见问题解答（FAQ）
+## 📦 Installation and Usage
 
-### 1. 无法打开 [Proxifier](https://www.proxifier.com/) 或出现错误提示
-- 请确保已安装所有必要的运行库。Proxifier 使用 C++ 编写，建议安装 [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)。
-  
-### 2. 如何下载和安装汉化包？
-请参考上面的 [安装与使用](#安装与使用) 部分，按照步骤下载和安装汉化包。
+### Proxifier v4.12 Chinese Package
 
-### 3. 汉化包适用于哪些版本的 [Proxifier](https://www.proxifier.com/)？
-本汉化包仅适用于 Proxifier 版本 4.12。
+1. Download the `Proxifier v4.12 Chs.7z` archive.
+2. Extract it to find:
+   - `ProxifierSetup.exe`: Official v4.12 installer.
+   - `CN` folder: Localized program files.
+3. Install the official Proxifier, then replace the files in the installation directory with those in the `CN` folder to complete the localization.
 
-### 4. 安装汉化包后遇到问题怎么办？
-请通过 GitHub Issues 或发送邮件至 [1564307973@qq.com](mailto:1564307973@qq.com) 反馈您的问题，我们会尽快回复。
+### Proxifier PE Portable Edition
 
-### 5. 是否需要购买正版授权？
-是的，Proxifier 软件需要购买授权密钥才能使用全部功能。Proxifier 软件提供一个月的免费试用期，试用期结束后需购买授权密钥。如需正版授权和专业支持，请访问 [Proxifier 官方购买页面](https://www.proxifier.com/buy/)。
+1. Download the `Proxifier PE.7z` archive.
+2. Extract and run directly. No installation is needed, and the localized files are already applied.
 
 ---
 
-## 🚀 试用示例
+## 🖼️ Screenshots
 
-### 示例 1：设置 HTTP 代理
-1. 打开 [Proxifier](https://www.proxifier.com/)。
-2. 在菜单栏中选择 `配置文件` -> `代理服务器`。
-3. 点击 `添加` 按钮添加新的代理服务器。
-4. 输入代理服务器地址和端口，选择代理协议（如 HTTP）。
-5. 确认设置并保存。
+### Proxifier Chinese Version
+![Proxifier Chinese Version](Proxifier%202025-03-29%20191255.png)
+*Example of Proxifier Chinese Version interface*
 
-### 示例 2：创建规则以指定应用程序通过代理访问网络
-1. 打开 [Proxifier](https://www.proxifier.com/)。
-2. 在菜单栏中选择 `配置文件` -> `代理规则`。
-3. 点击 `添加` 按钮添加新的规则。
-4. 输入规则名称，选择应用程序路径。
-5. 在 `操作` 中选择使用的代理服务器。
-6. 确认设置并保存。
+### Proxifier PE Chinese Version
+![Proxifier PE Chinese Version](Proxifier%20PE%202025-03-29%20191144.png)
+*Example of Proxifier PE Chinese Version interface*
 
 ---
 
-## 📜 许可证（License）
+## 📮 Feedback
 
-本项目基于 MIT 许可证开源，详情请见 [LICENSE](LICENSE) 文件。
+Feel free to provide feedback on usage issues or suggestions through the following channels:
+- **🐛 GitHub Issues**: Submit feedback in the [Issues](https://github.com/1564307973/Proxifier-CN/issues) section of this repository.
+- **📧 Email**: Send your feedback to [1564307973@qq.com](mailto:1564307973@qq.com).
+
+---
+
+## 📢 Notices
+
+- ⚠ This localization only applies to the [Proxifier](https://www.proxifier.com/) software. Users still need to purchase a genuine license to use all features. Proxifier software offers a one-month free trial period, after which a license key is required.
+
+---
+
+## ❓ FAQ
+
+### 1. Cannot open [Proxifier](https://www.proxifier.com/) or see error messages
+- Ensure all necessary runtime libraries are installed. Proxifier is written in C++, and it is recommended to install the [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist).
+
+### 2. How to download and install the Chinese package?
+Refer to the [Installation and Usage](#installation-and-usage) section above and follow the steps to download and install the Chinese package.
+
+### 3. Which versions are supported by the Chinese package?
+This Chinese package is only applicable to Proxifier version 4.12.
+
+### 4. Problems after installing the Chinese package?
+Please provide feedback through GitHub Issues or send an email to [1564307973@qq.com](mailto:1564307973@qq.com), and we will respond as soon as possible.
+
+### 5. Do I need to buy a genuine license?
+Yes, Proxifier software requires a license key to use all features. Proxifier software offers a one-month free trial period, after which a license key is required. For genuine licenses and professional support, visit the [Proxifier official purchase page](https://www.proxifier.com/buy/).
+
+---
+
+## 🚀 Examples
+
+### Example 1: Setting up an HTTP proxy
+1. Open [Proxifier](https://www.proxifier.com/).
+2. In the menu bar, select `Profile` -> `Proxy Servers`.
+3. Click the `Add` button to add a new proxy server.
+4. Enter the proxy server address and port, and select the proxy protocol (e.g., HTTP).
+5. Confirm the settings and save.
+
+### Example 2: Creating rules for applications to access the network through proxies
+1. Open [Proxifier](https://www.proxifier.com/).
+2. In the menu bar, select `Profile` -> `Proxy Rules`.
+3. Click the `Add` button to add a new rule.
+4. Enter the rule name and select the application path.
+5. In the `Action` section, select the proxy server to use.
+6. Confirm the settings and save.
+
+---
+
+## 📜 License
+
+This project is open-source under the MIT License. See the [LICENSE](LICENSE) file for details.
